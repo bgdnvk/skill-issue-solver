@@ -14,6 +14,7 @@ https://developer.ibm.com/articles/a-tour-of-the-kubernetes-source-code/
 https://kubernetes.io/blog/2023/10/25/introducing-ingress2gateway/ 
 
 # books
+The Architecture of Open Source Applications
 https://aosabook.org/en/ 
 
 Building Microservices: Designing Fine-Grained Systems 1st Edition
