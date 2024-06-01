@@ -7,36 +7,27 @@ https://aosabook.org/en/
 
 Essentials include: The Hog Book (DDIA), SICP, Code, Intro to Algorithms, etc.
 
-Building Microservices: Designing Fine-Grained Systems 1st Edition
-by Sam Newman
+Building Microservices: Designing Fine-Grained Systems by Sam Newman
 
-Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) 1st Edition
-by Robert Martin (Author)
+Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series) by Robert Martin (Author)
 
-Domain-Driven Design: Tackling Complexity in the Heart of Software 1st Edition
-by Eric Evans (Author)
+Domain-Driven Design: Tackling Complexity in the Heart of Software by Eric Evans (Author)
 
-Design Patterns: Elements of Reusable Object-Oriented Software 1st Edition
-by Erich Gamma (Author), Richard Helm (Author), Ralph Johnson (Author), John Vlissides (Author), & 1 more 
+Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma (Author), Richard Helm (Author), Ralph Johnson (Author), John Vlissides (Author), & 1 more 
 
 ## product dev 
 
-The Principles of Product Development Flow: Second Generation Lean Product Development Hardcover – January 1, 2009
-by Donald G. Reinertsen (Author)
+The Principles of Product Development Flow: Second Generation Lean Product Development by Donald G. Reinertsen (Author)
 
-Team Topologies: Organizing Business and Technology Teams for Fast Flow Audible Logo Audible Audiobook – Unabridged
-Matthew Skelton (Author), Manuel Pais (Author), Edward Bauer (Narrator), IT Revolution Press (Publisher)
+Team Topologies: Organizing Business and Technology Teams for Fast Flow Matthew Skelton (Author), Manuel Pais (Author), Edward Bauer (Narrator), IT Revolution Press (Publisher)
 
-Accelerate: Building and Scaling High Performing Technology Organizations Audible Logo Audible Audiobook – Unabridged
-Nicole Forsgren PhD (Author), Jez Humble (Author), Gene Kim (Author), Nicole Forsgren (Narrator), & 1 more
+Accelerate: Building and Scaling High Performing Technology Organizations Nicole Forsgren PhD (Author), Jez Humble (Author), Gene Kim (Author), Nicole Forsgren (Narrator), & 1 more
 
-The Pragmatic Programmer: Your Journey To Mastery, 20th Anniversary Edition (2nd Edition) 2nd Edition
+The Pragmatic Programmer: Your Journey To Mastery, 20th Anniversary Edition
 
-Fundamentals of Software Architecture: An Engineering Approach Illustrated Edition
-by Mark Richards (Author), Neal Ford (Author)
+Fundamentals of Software Architecture: An Engineering Approach by Mark Richards (Author), Neal Ford (Author)
 
-Refactoring: Improving the Design of Existing Code (2nd Edition) (Addison-Wesley Signature Series (Fowler)) 2nd Edition
-by Martin Fowler (Author)
+Refactoring: Improving the Design of Existing Code (2nd Edition) (Addison-Wesley Signature Series (Fowler)) by Martin Fowler (Author)
 
 # k8s
 https://kubernetespodcast.com/episode/219-api-machinery-chaos-dishwashers/ 
