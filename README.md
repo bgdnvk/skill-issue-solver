@@ -1,21 +1,11 @@
-# 2read
+# books  
 
-## k8s
-https://kubernetespodcast.com/episode/219-api-machinery-chaos-dishwashers/ 
+## SWE 
 
-https://youtu.be/GpJz-Ab8R9M?si=y4kQMYggJyoY1Oa3 
-
-https://github.com/luxas/research 
-
-https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/43438.pdf 
-
-https://developer.ibm.com/articles/a-tour-of-the-kubernetes-source-code/ 
-
-https://kubernetes.io/blog/2023/10/25/introducing-ingress2gateway/ 
-
-# books
 The Architecture of Open Source Applications
 https://aosabook.org/en/ 
+
+Essentials include: The Hog Book (DDIA), SICP, Code, Intro to Algorithms, etc.
 
 Building Microservices: Designing Fine-Grained Systems 1st Edition
 by Sam Newman
@@ -29,7 +19,8 @@ by Eric Evans (Author)
 Design Patterns: Elements of Reusable Object-Oriented Software 1st Edition
 by Erich Gamma (Author), Richard Helm (Author), Ralph Johnson (Author), John Vlissides (Author), & 1 more 
 
-product dev 
+## product dev 
+
 The Principles of Product Development Flow: Second Generation Lean Product Development Hardcover – January 1, 2009
 by Donald G. Reinertsen (Author)
 
@@ -46,3 +37,16 @@ by Mark Richards (Author), Neal Ford (Author)
 
 Refactoring: Improving the Design of Existing Code (2nd Edition) (Addison-Wesley Signature Series (Fowler)) 2nd Edition
 by Martin Fowler (Author)
+
+# k8s
+https://kubernetespodcast.com/episode/219-api-machinery-chaos-dishwashers/ 
+
+https://youtu.be/GpJz-Ab8R9M?si=y4kQMYggJyoY1Oa3 
+
+https://github.com/luxas/research 
+
+https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/43438.pdf 
+
+https://developer.ibm.com/articles/a-tour-of-the-kubernetes-source-code/ 
+
+https://kubernetes.io/blog/2023/10/25/introducing-ingress2gateway/ 
