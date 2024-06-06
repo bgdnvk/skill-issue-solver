@@ -5,7 +5,7 @@
 The Architecture of Open Source Applications
 https://aosabook.org/en/ 
 
-Essentials include: The Hog Book (DDIA), SICP, Code, Intro to Algorithms, etc.
+Essentials include: The Hog Book (DDIA), SICP, CLRS, Code, etc.
 
 Building Microservices: Designing Fine-Grained Systems by Sam Newman
 
