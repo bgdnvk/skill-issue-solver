@@ -27,7 +27,10 @@ The Pragmatic Programmer: Your Journey To Mastery, 20th Anniversary Edition
 
 Fundamentals of Software Architecture: An Engineering Approach by Mark Richards (Author), Neal Ford (Author)
 
-Refactoring: Improving the Design of Existing Code (Addison-Wesley Signature Series (Fowler)) by Martin Fowler (Author)
+Refactoring: Improving the Design of Existing Code (Addison-Wesley Signature Series (Fowler)) by Martin Fowler (Author)  
+
+# Distributed Systems  
+https://dancres.github.io/Pages/
 
 # k8s
 https://kubernetespodcast.com/episode/219-api-machinery-chaos-dishwashers/ 
