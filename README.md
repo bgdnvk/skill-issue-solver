@@ -46,3 +46,6 @@ https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/43438.pdf
 https://developer.ibm.com/articles/a-tour-of-the-kubernetes-source-code/ 
 
 https://kubernetes.io/blog/2023/10/25/introducing-ingress2gateway/ 
+
+# AI/ML 
+The little book of deep learning: https://fleuret.org/public/lbdl.pdf
