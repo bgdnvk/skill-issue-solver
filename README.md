@@ -48,4 +48,7 @@ https://developer.ibm.com/articles/a-tour-of-the-kubernetes-source-code/
 https://kubernetes.io/blog/2023/10/25/introducing-ingress2gateway/ 
 
 # AI/ML 
-The little book of deep learning: https://fleuret.org/public/lbdl.pdf
+The little book of deep learning: https://fleuret.org/public/lbdl.pdf  
+
+# SRE 
+https://cloud.google.com/blog/products/devops-sre/systems-engineering-learning-resources-to-become-an-sre
