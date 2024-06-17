@@ -51,4 +51,9 @@ https://kubernetes.io/blog/2023/10/25/introducing-ingress2gateway/
 The little book of deep learning: https://fleuret.org/public/lbdl.pdf  
 
 # SRE 
-https://cloud.google.com/blog/products/devops-sre/systems-engineering-learning-resources-to-become-an-sre
+https://cloud.google.com/blog/products/devops-sre/systems-engineering-learning-resources-to-become-an-sre 
+
+# Observability 
+Charity Majors talks
+https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics  
+https://cra.mr/the-problem-with-otel  
