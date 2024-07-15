@@ -15,7 +15,9 @@ Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert
 
 Domain-Driven Design: Tackling Complexity in the Heart of Software by Eric Evans (Author)
 
-Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma (Author), Richard Helm (Author), Ralph Johnson (Author), John Vlissides (Author), & 1 more 
+Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma (Author), Richard Helm (Author), Ralph Johnson (Author), John Vlissides (Author), & 1 more  
+
+Crafting Interpreters: https://craftinginterpreters.com/introduction.html
 
 ## product dev 
 
@@ -57,3 +59,7 @@ https://cloud.google.com/blog/products/devops-sre/systems-engineering-learning-r
 Charity Majors talks
 https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics  
 https://cra.mr/the-problem-with-otel  
+
+# Go
+https://swtch.com/~rsc/thread/  
+CSP http://www.usingcsp.com/  
