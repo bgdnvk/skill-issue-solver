@@ -63,3 +63,7 @@ https://cra.mr/the-problem-with-otel
 # Go
 https://swtch.com/~rsc/thread/  
 CSP http://www.usingcsp.com/  
+
+# Other  
+https://how.complexsystems.fail/  
+https://www.usenix.org/legacy/event/lisa07/tech/full_papers/hamilton/hamilton_html/index.html  
